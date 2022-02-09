@@ -1,0 +1,202 @@
+{
+  "Authenticate":{
+    "naslov": "Prijava",
+    "podnaslov": "Prijava u sustav je moguća samo uz prethodnu fizičku registraciju.",
+    "loginButton": "Prijava",
+    "QRkod": "Skeniraj QR kod",
+    "kodNePostoji": "Uneseni kod ne postoji"
+  },
+  "QRScanner": {
+    "naslov": "Skeniraj QR kod",
+    "unesiRucno": "Unesi ručno"
+  },
+  "Home": {
+    "naslov": "Dobrodošli",
+    "Upitnik": {
+      "naslov": "Upitnik"
+    }
+  },
+  "TrainingPictures": {
+    "naslov": "UPUTE",
+    "uputeBr1": "Svakodnevno izvođenje vježbi nužno je za uspješan oporavak.",
+    "uputeBr2": "Provodite vježbe onako kako ste naučili s fizioterapeutom.",
+    "uputeBr3": "Vježbe se rade do granice boli.",
+    "uputeBr4": "Ako niste sigurni u pravilno izvođenje vježbi nemojte ih raditi.",
+    "gumbRazumijem": "Razumijem",
+    "PopisVjezbi": {
+      "naslov": "Vježbanje",
+      "Vjezba0": {
+        "naslov": "Početni položaj",
+        "opis": "Postavite glavu u srednji, neutralni položaj."
+      },
+      "Vjezba1": {
+        "naslov": "Prva vježba",
+        "opis": "Polagano glavu nagnite u desnu stranu, kao da uhom želite dotaknuti rame. Zadržite nekoliko sekundi pa glavu vratite u početni položaj."
+      },
+      "Vjezba2": {
+        "naslov": "Druga vježba",
+        "opis": "Polagano glavu nagnite u lijevu stranu, kao da uhom želite dotaknuti rame. Zadržite nekoliko sekundi pa glavu vratite u početni položaj."
+      },
+      "Vjezba3": {
+        "naslov": "Treća vježba",
+        "opis": "Glavu okrenite u desno, bradom pokušajte doći što bliže desnom ramenu. Vratite glavu u početni položaj."
+      },
+      "Vjezba4": {
+        "naslov": "Četvrta vježba",
+        "opis": "Glavu okrenite u lijevo, bradom pokušajte doći što bliže lijevom ramenu. Vratite glavu u početni položaj."
+      },
+      "Vjezba5": {
+        "naslov": "Peta vježba",
+        "opis": "Isprepletite prste na zatiljku. Glavu nagnite naprijed tako da brada bude što bliže prsima. Prstima lagano pogurajte glavu tako da osjetite istezanje stražnjeg dijela vrata. Zadržite 30 sekundi."
+      },
+      "Vjezba6": {
+        "naslov": "Šesta vježba",
+        "opis": "Bradu povucite unatrag (želite napraviti podbradak), bez pomaka vrata. Zadržite 5 sekundi pa se opustite."
+      },
+      "Vjezba7": {
+        "naslov": "Sedma vježba",
+        "opis": "Lijevi dlan stavite na uho. Lakat je raširen. Glavom pritišćete dlan, ali bez pokreta. Zadržite 5 sekundi pa se opustite."
+      },
+      "Vjezba8": {
+        "naslov": "Osma vježba",
+        "opis": "Desni dlan stavite na uho. Lakat je raširen. Glavom pritišćete dlan, ali bez pokreta. Zadržite 5 sekundi pa se opustite."
+      },
+      "Vjezba9": {
+        "naslov": "Deveta vježba",
+        "opis": "Glava je u početnom položaju. Isprepletite dlanove na zatiljku. Laktovi su rašireni. Glavom pritišćete o dlanove prema nazad, bez pomaka glave. Zadržite 5 sekundi pa se opustite."
+      },
+      "Vjezba10": {
+        "naslov": "Deseta vježba",
+        "opis": "Stavite dlanove na čelo s raširenim laktovima. Čelom pritišćete dlanove prema naprijed, bez pomaka glave. Zadržite 5 sekundi pa se opustite."
+      },
+      "Vjezba11": {
+        "naslov": "Jedanaesta vježba",
+        "opis": "Glava je u početnom položaju. Isprepletite dlanove na tjemenu s raširenim laktovima. Tjemenom pritišćete dlanove prema gore, bez pomaka glave. Zadržite 5 sekundi pa se opustite."
+      },
+      "Vjezba12": {
+        "naslov": "Dvanaesta vježba",
+        "opis": "Glava je u srednjem položaju. Ramena pomičite prema natrag. Zadržite 10 sekundi pa se opustite."
+      },
+      "Vjezba13": {
+        "naslov": "Trinaesta vježba",
+        "opis": "Glavu držite u srednjem položaju. Oba ramena istovremeno podignite prema gore. Zadržite 10 sekundi pa se opustite."
+      },
+      "Vjezba14": {
+        "naslov": "Četrnaesta vježba",
+        "opis": "Prste obje šake „zakvačite“ ispred prsa pa raširite laktove. Ramena gurajte prema nazad i dolje. Napnite mišiće kao da želite raširiti ruke, ali bez pomaka. Zadržite 5 sekundi pa se opustite."
+      },
+      "Vjezba15": {
+        "naslov": "Petnaesta vježba",
+        "opis": "Postavite dlan o dlan pa raširite laktove. Bez pomaka gurajte dlan o dlan, a ramena gurajte nazad i dolje. Zadržite 5 sekundi pa se opustite."
+      },
+      "Vjezba16": {
+        "naslov": "Šesnaesta vježba",
+        "opis": "Glava je u neutralnom položaju. Šake stavite pod bradu, raširite laktove. Bradom pritišćite o šake prema dolje tako da se glava ne pomiče. Zadržite 5 sekundi pa se opustite."
+      }
+    }
+  },
+  "InfoScreen": {
+    "Odjava": {
+      "potvrda": "Jeste li sigurni da se želite odjaviti?"
+    },
+    "copyright": "\u00a9 Dominik Špiranec"
+  },
+  "Upitnik": {
+    "Symptoms":  {
+      "naslov": "Upitnik 1/4",
+      "tegobe": "Imao/imala sam tegobe u zadnja 24 sata",
+      "oznaciSimptome": "Označite simptome",
+      "Simptomi": {
+        "glavobolja": "Glavobolja",
+        "tenzija": "Tenzija u mišićima vrata",
+        "trnci": "Trnci u rukama",
+        "spavanje": "Problemi sa spavanjem"
+      }
+    },
+    "AveragePain": {
+      "naslov": "Upitnik 2/4",
+      "prosjecnaBol": "Prosječna bol u području glave i vrata u zadnjih 24 sata",
+      "opis": "Označi broj: \n 0 - nema boli („Ništa me ne boli, spavam kao beba.”),\n10 - najjača zamisliva bol („Treba mi injekcija koliko me boli.”)"
+    },
+    "Painkillers": {
+      "naslov": "Upitnik 3/4",
+      "podnaslov": "U zadnjih 24 sata sam uzimao/la tablete protiv bolova",
+      "opis": "Označite koje tablete ste uzimali",
+      "Tablete": {
+        "paracetamol": "Paracetamol (Lupocet, Lekadol)",
+        "NSAR": "NSAR (Brufen, Voltaren, Nalgesin, Rantudil, Diclo Duo, Ketonal, Dexomen)",
+        "tramadol": "Tramadol (Tramal, Lumidol, Tramadol)",
+        "tramadol&paracetamol": "Tramadol + Paracetamol (Zaldiar, Zaracet, Zotramid, Doreta)",
+        "tramadol&deksetoprofen": "Tramadol + Deksketoprofen (Skudexa)",
+        "diazepam": "Diazepam (Normabel)",
+        "ostalo": "Uzeo sam neku, ali se ne mogu sjetiti koju."
+      }
+    },
+    "Gel":{
+      "naslov": "Upitnik 4/5",
+      "podnaslov": "Nanosio/la sam gel protiv bolova za kožu"
+    },
+    "WorkoutRecommendation":{
+      "naslov": "Upitnik 4/4",
+      "opis": "Vježbao/la sam kako mi je preporučeno",
+      "podnaslov": "Zašto nisam?",
+      "Razlozi": {
+        "bol": "a) Bol je bila prejaka",
+        "zaboravio": "b) Zaboravio/la sam",
+        "vrijeme": "c) nisam imao/la vremena",
+        "ostalo": "d) Ostalo"
+      }
+    },
+    "EndScreen": {
+      "naslov": "Hvala!",
+      "podnaslov": "Sudjelovanjem u ovoj studiji pomažete unaprijediti medicinsku skrb. Hvala Vam što ste ispunili upitnik.",
+      "gumbZaNazad": "Povratak na početnu"
+    }
+  },
+  "AdminHome": {
+    "naslov": "Aktivni Korisnici",
+    "dogadajiNaslov": "Neželjeni događaji",
+    "deaktiviraniNaslov": "Deaktivirani Korisnici",
+    "kreirajKorisnika": "+"
+  },
+  "CompletedQuestionnariesChart": {
+    "naslov": "Kontrolna ploča",
+    "Graf": {
+      "kreiraniUpitnici": "Kreirani upitnici",
+      "ispunjeniUpitnici": "Ispunjeni upitnici"
+    }
+  },
+  "UserDetails": {
+    "naslov": "Korisnik: ",
+    "Graf": {
+      "bol": "Intenzitet boli",
+      "lijekovi": "Lijekovi",
+      "gel": "Gel",
+      "noData": "Nema podataka"
+    }
+  },
+  "CreateNewUser": {
+    "naslov": "Kreiraj novog korisnika",
+    "gumbKreiraj": "Kreiraj korisnika",
+    "gumbOdustani": "Odustani",
+    "gumbKreirajUpitnik": "Kreiraj inicijalni upitnik",
+    "PodaciKreiranogKorisnika": {
+      "naslov": "Korisnik",
+      "ID": "ID",
+      "kreirano": "KREIRANO",
+      "gumbZaNazad": "U redu"
+    },
+    "PopupMenuButton": {
+      "detalji": "Detalji korisnika",
+      "Deaktivacija": {
+        "naslov": "Deaktiviraj korisnika",
+        "alertDialog": "Jeste li sigurni da želite deaktivirani korisnika?"
+      }
+    },
+    "ClosedInfoScreen": {
+      "naslov": "Zatvoreno istraživanje",
+      "poruka": "Za Vas, istraživanje je završilo. Hvala Vam na sudjelovanju.",
+      "gumb": "U redu"
+    }
+  }
+}

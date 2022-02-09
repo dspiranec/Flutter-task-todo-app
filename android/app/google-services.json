@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616798184912",
+    "project_id": "task-todo-app-18cfe",
+    "storage_bucket": "task-todo-app-18cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616798184912:android:c8adcc9dd486121ccbc5d5",
+        "android_client_info": {
+          "package_name": "hr.dspiranec.task_todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616798184912-dub68ovirult7e31rq1q1se5fbup68h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-DeCjawc2MdKbGyy9QApGj2uBP864io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616798184912-dub68ovirult7e31rq1q1se5fbup68h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
