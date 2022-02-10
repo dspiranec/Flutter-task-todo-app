@@ -1,6 +1,4 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:easy_localization/easy_localization.dart';
-import 'package:task_todo_app/src/hr/dspiranec/tasktodoapp/logic/service/SurveyService.dart';
 import 'package:task_todo_app/src/hr/dspiranec/tasktodoapp/model/User.dart';
 
 class UserService {
