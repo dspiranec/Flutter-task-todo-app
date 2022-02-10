@@ -23,9 +23,9 @@ class _UnwantedEventScreenState extends State<UnwantedEventScreen> {
 
   List<String> _alertReasons = [
     "undifined",
-    "hospitalizacija",
-    "posjet Hitnoj pomoći",
-    "nepredviđeni posjet liječniku obiteljske medicine",
+    "Nisam dobio TODO listu",
+    "Bug unutar aplikacije",
+    "Nepredviđeno ponašanje aplikacije",
     "ostalo"
   ];
 

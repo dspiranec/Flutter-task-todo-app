@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:task_todo_app/src/hr/dspiranec/tasktodoapp/view/forms/UnwantedEventScreen.dart';
-import 'package:task_todo_app/src/hr/dspiranec/tasktodoapp/view/widgets/screen/SurveyScreen.dart';
 import 'package:task_todo_app/src/hr/dspiranec/tasktodoapp/view/widgets/screen/InfoScreen.dart';
 import 'package:task_todo_app/src/hr/dspiranec/tasktodoapp/view/widgets/screen/TodoScreen.dart';
 

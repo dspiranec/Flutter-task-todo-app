@@ -96,7 +96,8 @@ class UserService {
       'status': 'created',
       'createdAt': Timestamp.now(),
       'role': userRole,
-      'code': userCode
+      'code': userCode,
+      'test': true
     });
   }
 }

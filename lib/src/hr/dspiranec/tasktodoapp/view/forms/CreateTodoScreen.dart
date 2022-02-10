@@ -124,7 +124,7 @@ class _CreateTodoScreenState extends State<CreateTodoScreen> {
         children: todoList.map((Todo todo) {
           return TodoItem(
             todo: todo,
-            onTodoChanged: _handleTodoChange,
+            onTodoChanged: null,
           );
         }).toList(),
       ),
