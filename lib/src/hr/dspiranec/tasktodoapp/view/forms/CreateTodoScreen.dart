@@ -152,7 +152,7 @@ class _CreateTodoScreenState extends State<CreateTodoScreen> {
                 backgroundColor: Color.fromRGBO(59, 174, 240, 1),
                 child: Icon(Icons.remove),
                 onPressed: () {
-                  setState(() async {
+                  setState(() {
                     todoList.removeLast();
                   });
                 }),
